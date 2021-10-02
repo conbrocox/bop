@@ -6,7 +6,7 @@
 * [Harrier](#harrierhttpsenwikipediaorgwikiharrier_bird)
 * [Kite](#kitehttpsenwikipediaorgwikikite_bird)
 * [Owl](#owlhttpsenwikipediaorgwikiowl)
-* [Vulture](#a-hrefhttpsenwikipediaorgwikivulture-target_blankvulturea)
+* [Vulture](#vulturehttpsenwikipediaorgwikivulture)
 ***
 ### [Buzzard](https://en.wikipedia.org/wiki/Buzzard)
 * The Buzzard is a medium-large raptor with a robust body and broad wings
@@ -33,6 +33,6 @@
 * The Owl has particularly acute hearing and nocturnal eyesight
 * The Owl has an upright stance, a large, broad head, binocular vision, binaural hearing, and sharp talons
 ***
-### <a href="https://en.wikipedia.org/wiki/Vulture" target="_blank">Vulture</a>
+### [Vulture](https://en.wikipedia.org/wiki/Vulture)
 * The Vulture has a head either partly or fully devoid of feathers
 * The Vulture urinates on itself as a means of cooling its body
