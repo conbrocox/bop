@@ -7,10 +7,10 @@
 		<artifactId>bop</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>com.clc.bop.harrier</groupId>
-	<artifactId>harrier</artifactId>
+	<groupId>com.clc.bop.buzzard</groupId>
+	<artifactId>buzzard</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>harrier</name>
+	<name>buzzard</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>8</java.version>

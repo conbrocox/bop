@@ -14,15 +14,35 @@
 	<description>Parent for the bop project</description>
 	<packaging>pom</packaging>
 	<properties>
+		<parent.spring.version>2.5.5</parent.spring.version>
 		<java.version>8</java.version>
 		<maven.compiler.source>8</maven.compiler.source>
 		<maven.compiler.target>8</maven.compiler.target>
 	</properties>
 	<modules>
+		<module>buzzard</module>
 		<module>eagle</module>
 		<module>falcon</module>
 		<module>harrier</module>
+		<module>kite</module>
 		<module>owl</module>
 		<module>vulture</module>
 	</modules>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>${parent.spring.version}</version>
+				<configuration>
+					<excludes>
+						<exclude>
+							<groupId>org.projectlombok</groupId>
+							<artifactId>lombok</artifactId>
+						</exclude>
+					</excludes>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
 </project>
