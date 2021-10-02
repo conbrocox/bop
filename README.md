@@ -1,6 +1,6 @@
 #  [Bird of Prey](https://en.wikipedia.org/wiki/Bird_of_prey) Project
 ## Modules
-#Buzzard
+* [Buzzard](#buzzardhttpsenwikipediaorgwikibuzzard)
 * [Eagle](#eaglehttpsenwikipediaorgwikieagle)
 * [Falcon](#falconhttpsenwikipediaorgwikifalcon)
 * [Harrier](#harrierhttpsenwikipediaorgwikiharrier_bird)
@@ -8,7 +8,7 @@
 * [Owl](#owlhttpsenwikipediaorgwikiowl)
 * [Vulture](#vulturehttpsenwikipediaorgwikivulture)
 ***
-## Buzzard
+## [Buzzard](https://en.wikipedia.org/wiki/Buzzard)
 * The Buzzard is a medium-large raptor with a robust body and broad wings
 ***
 ## [Eagle](https://en.wikipedia.org/wiki/Eagle)
@@ -36,24 +36,3 @@
 ## [Vulture](https://en.wikipedia.org/wiki/Vulture)
 * The Vulture has a head either partly or fully devoid of feathers
 * The Vulture urinates on itself as a means of cooling its body
-
-
-
-***
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
