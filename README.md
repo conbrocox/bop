@@ -1,12 +1,12 @@
-#  [Bird of Prey](https://en.wikipedia.org/wiki/Bird_of_prey) Project
+# [Bird of Prey](https://en.wikipedia.org/wiki/Bird_of_prey) Project
 ## Modules
-* [Buzzard](#buzzardhttpsenwikipediaorgwikibuzzard)
-* [Eagle](#eaglehttpsenwikipediaorgwikieagle)
-* [Falcon](#falconhttpsenwikipediaorgwikifalcon)
-* [Harrier](#harrierhttpsenwikipediaorgwikiharrier_bird)
-* [Kite](#kitehttpsenwikipediaorgwikikite_bird)
-* [Owl](#owlhttpsenwikipediaorgwikiowl)
-* [Vulture](#vulturehttpsenwikipediaorgwikivulture)
+* [Buzzard](#buzzard)
+* [Eagle](#eagle)
+* [Falcon](#falcon)
+* [Harrier](#harrier)
+* [Kite](#kite)
+* [Owl](#owl)
+* [Vulture](#vulture)
 ***
 ### [Buzzard](https://en.wikipedia.org/wiki/Buzzard)
 * The Buzzard is a medium-large raptor with a robust body and broad wings
