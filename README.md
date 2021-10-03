@@ -1,12 +1,12 @@
 #  [Bird of Prey][BirdOfPreyLink] Project
 ## Modules
-* [Buzzard](#buzzardbuzzardlink)
+* [Buzzard](#buzzard)
 * [Eagle](#eagleeaglelink)
 * [Falcon](#falconfalconlink)
 * [Harrier](#harrierharrierlink)
 * [Kite](#kitekitelink)
 * [Owl](#owlowllink)
-* [Vulture](#vulturevulturelink)
+* [Vulture](#vulture)
 ***
 ### [Buzzard][BuzzardLink]
 * The Buzzard is a medium-large raptor with a robust body and broad wings
