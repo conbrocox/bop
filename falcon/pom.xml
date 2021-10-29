@@ -11,7 +11,7 @@
 	<artifactId>falcon</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>falcon</name>
-	<description>Demo project for Spring Boot</description>
+	<description>The Falcon Module is responsible for common functionality that other bop modules may need</description>
 	<properties>
 		<java.version>8</java.version>
 		<maven.compiler.source>8</maven.compiler.source>
