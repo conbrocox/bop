@@ -5,7 +5,6 @@ import lombok.*;
 import java.time.*;
 
 @Getter
-@Builder
 @AllArgsConstructor
 public class BopDate{
     private static final ZoneId defaultTimeZone = ZoneId.of("America/New_York");

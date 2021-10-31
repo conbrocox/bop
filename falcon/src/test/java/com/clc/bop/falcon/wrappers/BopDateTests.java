@@ -84,6 +84,11 @@ class BopDateTests {
         BopDate bopDate = new BopDate(expectedStringDate, expectedStringTime);
         commonAsserts(bopDate);
     }
+    @Test
+    void testBopAllArgs() {
+        BopDate bopDate = new BopDate(expectedEpochMilli,expectedLocalDate,expectedLocalTime,expectedLocalDateTime);
+        commonAsserts(bopDate);
+    }
 
     void commonAsserts(BopDate bopDate){
         assertEquals(expectedEpochMilli,bopDate.getEpochMilli());
