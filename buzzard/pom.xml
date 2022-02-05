@@ -13,15 +13,13 @@
 	<name>buzzard</name>
 	<description>The Buzzard Module is responsible for fetching bopConfigurations from GitHub</description>
 	<properties>
-		<java.version>8</java.version>
-		<maven.compiler.source>8</maven.compiler.source>
-		<maven.compiler.target>8</maven.compiler.target>
+
 	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-config-server</artifactId>
-			<version>3.0.5</version>
+			<version>3.1.0</version>
 		</dependency>
 	</dependencies>
 </project>
